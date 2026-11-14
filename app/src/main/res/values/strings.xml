@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoLock Timer</string>
+    <string name="admin_description">Allows AutoLock Timer to lock the screen when your countdown ends.</string>
+</resources>
